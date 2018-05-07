@@ -1,3 +1,3 @@
 # Collaborative-OJ
 
-<a>icoj.mooo.com</a>
+Here is the demo: http://icoj.mooo.com
